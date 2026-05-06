@@ -72,6 +72,4 @@ paper results.
 
 #TBD
 
-## License and Contributing
-
-#TBD
+## Contributing
