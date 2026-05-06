@@ -1,0 +1,6 @@
+ipython>=8.0,<9
+jupyter>=1.0,<2
+matplotlib>=3.8,<4
+numpy>=1.26,<3
+pandas>=2.0,<3
+ripser>=0.6,<0.7
